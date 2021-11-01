@@ -1,2 +1,2 @@
 # spring_app1
- Java Spring Framework: xml annotations
+ Java Spring Framework: xml
